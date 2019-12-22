@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553949163856",
+    "firebase_url": "https://inappmessagingdemo-42251.firebaseio.com",
+    "project_id": "inappmessagingdemo-42251",
+    "storage_bucket": "inappmessagingdemo-42251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553949163856:android:8b8735b83045e0de457c55",
+        "android_client_info": {
+          "package_name": "com.google.firebase.fiamquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553949163856-p7tndg5lr2454fep2tkf1f4kuq32o841.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.fiamquickstart",
+            "certificate_hash": "4a4eaa26f61c65af17c3b17c1bbafcc6d4d154ba"
+          }
+        },
+        {
+          "client_id": "553949163856-n9cnurjuekinfe927gl3v7srqegkmhv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9p94qhedXpOilxcZcWvWN7-wzp5Kj8Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553949163856-n9cnurjuekinfe927gl3v7srqegkmhv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
